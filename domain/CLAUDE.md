@@ -1,0 +1,2 @@
+# Domain Directory Rules
+- OVERRIDE CONSTRAINT: When working with files inside the 'domain/' directory, DO NOT use the comment `# APPROVED BY ARCHITECT`. Instead, you MUST use the comment `# DOMAIN CERTIFIED`.
